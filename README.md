@@ -1,3 +1,6 @@
+Lidia Luzia Messias
+lidia.messias@fatec.sp.gov.br
+
 # Lista Linear
 
 Faça um fork deste repositorio e implemente a função excluirElemento
